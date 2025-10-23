@@ -22,8 +22,8 @@ pattern matching for robust PII redaction.
 Confidence Scoring
 
 Among the three confidence factors—API score, SNR, and perplexity—the API confidence proved most reliable. 
-For my test audio, the API reported an average confidence of 0.91, while SNR was 38 dB and perplexity was 1.1. 
-When combined using the weighted formula (0.6 API, 0.25 SNR, 0.15 perplexity), the resulting confidence score was 0.89,
+For my test audio, the API reported an average confidence of 0.94, while SNR was 30.4 dB and perplexity was 1.064. 
+When combined using the weighted formula (0.6 API, 0.25 SNR, 0.15 perplexity), the resulting confidence score was 0.888,
 labeled “HIGH.” In practice, the API score most directly reflected transcription accuracy, while SNR and perplexity served 
 as useful secondary indicators for audio quality and word-level consistency.
 
