@@ -1,0 +1,1 @@
+{"timestamp": "2025-10-23T17:59:59.944243", "input_file": "test_audio.mp3", "api_confidence": 0.9399726098062287, "snr": 30.434436533018175, "perplexity": 1.064, "combined_score": 0.888, "confidence_level": "HIGH", "redactions": [{"type": "PERSON", "value": "Artificial"}, {"type": "ORG", "value": "Technologies"}, {"type": "ORG", "value": "AI"}]}
