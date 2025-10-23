@@ -5,7 +5,7 @@ Preprocessing
 The preprocessing step, which included audio normalization and noise reduction, 
 significantly improved the transcription accuracy. Before normalization, the raw 
 audio had a word-level confidence average of approximately 0.72, with some misrecognized 
-words in the AI paragraph. After preprocessing, the average confidence increased to 0.91, 
+words in the AI paragraph. After preprocessing, the average confidence increased to 0.94, 
 and the transcription correctly captured my name and most of the AI paragraph. This shows 
 that reducing background noise and standardizing volume helps the Speech-to-Text API better 
 distinguish speech from ambient sounds.
